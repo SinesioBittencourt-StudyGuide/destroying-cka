@@ -8,7 +8,7 @@ Antes de começar os estudos é de extrema importância ler o [Candidate Handboo
 
 
 ## Conteúdo
-- [Fundamentos](o.fundamentos.md)
+- [Fundamentos](0.fundamentos.md)
 - [Storage - 10%](1.storage.md)
 - [Troubleshooting - 30%](2.troubleshooting.md)
 - [Workloads & Scheduling - 15%](3.workloads_&_scheduling.md)

@@ -16,7 +16,25 @@ Antes de começar os estudos é de extrema importância ler o [Candidate Handboo
 - [Services & Networking - 20%](5.services_&_networking.md)
 
 
+# Como o exame funciona?
+
+Informações referentes ao exame em 2021.
+
+- Kubernetes Version: 1.2
+- O exame dura 2 horas
+- Possui entre 15-20 questões
+- Serão utilizados 6 clusters para os problemas
+- A porcentagem de acerto para aprovação é de 66%
+
 # Dicas Gerais
 
+- Uma questão não tem relação com a outra
+- Cada questão tem uma pontuação e é possível ver na tela durante a realização do exame
+- Estudar pelo currículo proposto na página do exame
+- A cada 3 meses o Kubernetes tem uma nova versão lançada, então é importante sempre revisar o currículo oficial pois as competências mudam com o tempo
+- Estude mais o que vai ser mais exigido na prova, na página do exame cada tópico tem a porcentagem da sua prioridade
+- Descubra em quais coisas você é bom e quais você não entende direito, e foque suas energias de acordo com isso
+- Ao realizar o exame, sempre verifique quanto vale a questão e decida qual esforço ela vale, priorize sempre as que valem mais
+- Cria alias para os comandos mais usados. E.g. kubectl ter um alias=k, k explain pods.
 
 # Referências

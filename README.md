@@ -2,7 +2,7 @@
 
 Conjunto de notas de estudo, exercícios, recursos e referências sobre os domínios e as competências exigidas para realizar o exame [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/), organizado por tópicos exigidos pela CNCF.
 
-As notas serão feitas em português, visto a escassez de material em PT-BR sobre Kubernetes no geral, termos importantes em inglês serão mantidos por estarem enraizados nos conceitos que eles representam, qualquer pergunta ou correção sobre algo pode ser feita.
+O foco é documentar os exercícios realizados, visto que a prova é totalmente baseada em performance, e o candidato precisa realizar as demandas da forma mais rápida possível.
 
 Antes de começar os estudos é de extrema importância ler o [Candidate Handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook) para entender como funciona o exame, quais recursos e limitações existem durante a realização do mesmo.
 
@@ -18,9 +18,9 @@ Antes de começar os estudos é de extrema importância ler o [Candidate Handboo
 
 # Como o exame funciona?
 
-Informações referentes ao exame em 2021.
+Informações referentes ao exame em junho de 2021.
 
-- Kubernetes Version: 1.2
+- Kubernetes Version: 1.20
 - O exame dura 2 horas
 - Possui entre 15-20 questões
 - Serão utilizados 6 clusters para os problemas

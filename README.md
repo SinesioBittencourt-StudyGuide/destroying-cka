@@ -1,6 +1,6 @@
 # Estudos CKA
 
-Conjunto de notas de estudo,recursos e referências sobre os domínios e as competências exigidas para realizar o exame [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/), organizado por tópicos exigidos pela CNCF.
+Conjunto de notas de estudo, exercícios, recursos e referências sobre os domínios e as competências exigidas para realizar o exame [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/), organizado por tópicos exigidos pela CNCF.
 
 As notas serão feitas em português, visto a escassez de material em PT-BR sobre Kubernetes no geral, termos importantes em inglês serão mantidos por estarem enraizados nos conceitos que eles representam, qualquer pergunta ou correção sobre algo pode ser feita.
 

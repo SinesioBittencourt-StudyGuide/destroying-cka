@@ -1,5 +1,4 @@
-# Estudos CKA
-
+# Destroying CKA 💥💥💥
 Conjunto de notas de estudo, exercícios, recursos e referências sobre os domínios e as competências exigidas para realizar o exame [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/), organizado por tópicos exigidos pela CNCF.
 
 O foco é documentar os exercícios realizados, visto que a prova é totalmente baseada em performance, e o candidato precisa realizar as demandas da forma mais rápida possível.

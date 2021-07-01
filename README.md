@@ -1,12 +1,10 @@
 # Destroying CKA 💥💥💥
 Conjunto de notas de estudo, exercícios, recursos e referências sobre os domínios e as competências exigidas para realizar o exame [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/), organizado por tópicos exigidos pela CNCF.
 
-O foco é documentar os exercícios realizados, visto que a prova é totalmente baseada em performance, e o candidato precisa realizar as demandas da forma mais rápida possível.
-
 Antes de começar os estudos é de extrema importância ler o [Candidate Handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook) para entender como funciona o exame, quais recursos e limitações existem durante a realização do mesmo.
 
-
 ## Conteúdo
+
 - [Fundamentos](0.fundamentos.md)
 - [Storage - 10%](1.storage.md)
 - [Troubleshooting - 30%](2.troubleshooting.md)
@@ -14,18 +12,17 @@ Antes de começar os estudos é de extrema importância ler o [Candidate Handboo
 - [Cluster Architecture, Installation & Configuration - 25%](4.cluster_architecture_installation_&_configuration.md)
 - [Services & Networking - 20%](5.services_&_networking.md)
 
+## Como o exame funciona?
 
-# Como o exame funciona?
+Informações referentes ao exame em 2021.
 
-Informações referentes ao exame em junho de 2021.
-
-- Kubernetes Version: 1.20
+- Kubernetes Version: 1.21
 - O exame dura 2 horas
 - Possui entre 15-20 questões
 - Serão utilizados 6 clusters para os problemas
 - A porcentagem de acerto para aprovação é de 66%
 
-# Dicas Gerais
+## Dicas Gerais
 
 - Uma questão não tem relação com a outra
 - Cada questão tem uma pontuação e é possível ver na tela durante a realização do exame
@@ -36,4 +33,4 @@ Informações referentes ao exame em junho de 2021.
 - Ao realizar o exame, sempre verifique quanto vale a questão e decida qual esforço ela vale, priorize sempre as que valem mais
 - Cria alias para os comandos mais usados. E.g. kubectl ter um alias=k, k explain pods.
 
-# Referências
+## Referências

@@ -1,36 +1,40 @@
-# Destroying CKA 💥💥💥
-Conjunto de notas de estudo, exercícios, recursos e referências sobre os domínios e as competências exigidas para realizar o exame [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/), organizado por tópicos exigidos pela CNCF.
+# Destroying CKA
 
-Antes de começar os estudos é de extrema importância ler o [Candidate Handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook) para entender como funciona o exame, quais recursos e limitações existem durante a realização do mesmo.
+Collection of study notes and resources for preparing for [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) Exam.
 
-## Conteúdo
+## Content
 
-- [Fundamentos](0.fundamentos.md)
+Organized accordingly to CKA Exam skill requirements.
+
+- [Fundamentals](0.fundamentos.md) - Basic overall knowledge on concepts used by Kubernetes.
 - [Storage - 10%](1.storage.md)
 - [Troubleshooting - 30%](2.troubleshooting.md)
 - [Workloads & Scheduling - 15%](3.workloads_&_scheduling.md)
 - [Cluster Architecture, Installation & Configuration - 25%](4.cluster_architecture_installation_&_configuration.md)
 - [Services & Networking - 20%](5.services_&_networking.md)
 
-## Como o exame funciona?
+## Tips and Considerations
 
-Informações referentes ao exame em 2021.
+1. Read the [Candidate Handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook), it is a very important resource to understand all the nuances of the exam application, requirements and resources.
 
-- Kubernetes Version: 1.21
-- O exame dura 2 horas
-- Possui entre 15-20 questões
-- Serão utilizados 6 clusters para os problemas
-- A porcentagem de acerto para aprovação é de 66%
+2. Applicant can use Kubernetes Documentation during the exam, so get familiarized with it.
 
-## Dicas Gerais
+3. The exam lasts 2 hours, so it is all about velocity and knowing where to found what, so practice a lot with exercises.
 
-- Uma questão não tem relação com a outra
-- Cada questão tem uma pontuação e é possível ver na tela durante a realização do exame
-- Estudar pelo currículo proposto na página do exame
-- A cada 3 meses o Kubernetes tem uma nova versão lançada, então é importante sempre revisar o currículo oficial pois as competências mudam com o tempo
-- Estude mais o que vai ser mais exigido na prova, na página do exame cada tópico tem a porcentagem da sua prioridade
-- Descubra em quais coisas você é bom e quais você não entende direito, e foque suas energias de acordo com isso
-- Ao realizar o exame, sempre verifique quanto vale a questão e decida qual esforço ela vale, priorize sempre as que valem mais
-- Cria alias para os comandos mais usados. E.g. kubectl ter um alias=k, k explain pods.
+4. Matching topics with the documentation will help you to memorize where to find resources that you need during the exam.
 
-## Referências
+5. Exam has 15 to 20 questions.
+
+6. 6 clusters are used in the exam for problem solving.
+
+7. You need to score 66% to pass the exam.
+
+8. Every question on the exam, has its pontuation shown on the screen, so spend more time on questions that has a higher value.
+
+9. One question does not relate with the other.
+
+10. Every 3 months Kubernetes Version is updated, so it's important to review the official curriculum.
+
+11. Focus on studying the most required topics on the exam.
+
+12. Create alias for most used commands. E.g. alias k=kubectl

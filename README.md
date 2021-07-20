@@ -75,3 +75,12 @@ Organized accordingly to CKA Exam skill requirements.
 11. Focus on studying the most required topics on the exam.
 
 12. Create alias for most used commands. E.g. alias k=kubectl
+
+
+## Resources
+
+[Rudi Martinsen CKA Notes](https://rudimartinsen.com/cka-resources/)
+[Kubernetes by Example](https://www.kubernetesbyexample.com/)
+[Killer Sh](https://killer.sh/)
+[150 CKAD Questions](https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552)
+[What is Kubernetes?](https://www.redhat.com/en/topics/containers/what-is-kubernetes)

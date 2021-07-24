@@ -40,7 +40,7 @@ Collection of study notes and resources used for preparing for [Certified Kubern
 
 ## Content
 
-Organized accordingly to CKA Exam domains and competences requirements list, this does note follow a specific order for learing.
+Organized accordingly to CKA Exam domains and competences requirements list, this does note follow a specific order for learning.
 
 - [Fundamentals](0.fundamentals.md) - Basic overall knowledge on concepts used by Kubernetes.
 

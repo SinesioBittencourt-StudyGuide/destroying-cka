@@ -1,12 +1,49 @@
 # Destroying CKA
 
-Collection of study notes and resources for preparing for [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) Exam.
+Collection of study notes and resources used for preparing for [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) Exam.
+
+> The exam will be performed using Kubernetes version 1.21.
+
+## Tips and Considerations
+
+### Before start studying
+
+- Plan your studies, understand what topics will require more time of study than others.
+
+- Gather the resources you're gonna use for studying, it could be online courses, github repos, blogs or anything else, but is crucial to make things easy to find so you don't loose time.
+
+- Read the [Candidate Handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook), it is a very important resource to understand all the nuances of the exam application, requirements and resources that you can use during the exam.
+
+### Understanding how it works & preparing
+
+- The exam lasts 2 hours, so it is all about velocity and knowing where to found what, so practice a lot with exercises.
+
+- Matching topics with the documentation will help you to memorize where to find resources that you need during the exam.
+
+- Exam has 15 to 20 questions.
+
+- 6 clusters are used in the exam for problem solving.
+
+- You need to score 66% to pass the exam.
+
+- Every question on the exam, has its pontuation shown on the screen, so spend more time on questions that has a higher value.
+
+- One question does not relate with the other.
+
+- Every 3 months Kubernetes Version is updated, so it's important to review the official curriculum.
+
+- Get used to the Kubernetes Documentation. It is a resource that you will use in the exam, so working with it is a  **must**.
+
+- When you start feeling ready, do the Exam Simulation. It will help you understand what are your knownledge gaps so you can focus for the real exam.
+
+- Focus on studying the most required topics on the exam.
 
 ## Content
 
-Organized accordingly to CKA Exam skill requirements.
+Organized accordingly to CKA Exam domains and competences requirements list, this does note follow a specific order for learing.
 
-- [Fundamentals](0.fundamentos.md) - Basic overall knowledge on concepts used by Kubernetes.
+- [Fundamentals](0.fundamentals.md) - Basic overall knowledge on concepts used by Kubernetes.
+
 - [1. Storage - 10%](1.storage.md)
 
     1. [Understand storage classes, Persistent Volumes](https://github.com/justjhon/destroying-cka/blob/main/1.storage.md#1-understand-storage-classes-persistent-volumes)
@@ -50,37 +87,16 @@ Organized accordingly to CKA Exam skill requirements.
     5. [Know how to configure and use CoreDNS](https://github.com/justjhon/destroying-cka/blob/main/5.services_%26_networking.md#5-know-how-to-configure-and-use-coredns)
     6. [Choose an appropriate container network interface plugin](https://github.com/justjhon/destroying-cka/blob/main/5.services_%26_networking.md#6-choose-an-appropriate-container-network-interface-plugin)
 
-## Tips and Considerations
-
-1. Read the [Candidate Handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook), it is a very important resource to understand all the nuances of the exam application, requirements and resources.
-
-2. Applicant can use Kubernetes Documentation during the exam, so get familiarized with it.
-
-3. The exam lasts 2 hours, so it is all about velocity and knowing where to found what, so practice a lot with exercises.
-
-4. Matching topics with the documentation will help you to memorize where to find resources that you need during the exam.
-
-5. Exam has 15 to 20 questions.
-
-6. 6 clusters are used in the exam for problem solving.
-
-7. You need to score 66% to pass the exam.
-
-8. Every question on the exam, has its pontuation shown on the screen, so spend more time on questions that has a higher value.
-
-9. One question does not relate with the other.
-
-10. Every 3 months Kubernetes Version is updated, so it's important to review the official curriculum.
-
-11. Focus on studying the most required topics on the exam.
-
-12. Create alias for most used commands. E.g. alias k=kubectl
-
-
 ## Resources
 
 [Rudi Martinsen CKA Notes](https://rudimartinsen.com/cka-resources/)
+
 [Kubernetes by Example](https://www.kubernetesbyexample.com/)
+
 [Killer Sh](https://killer.sh/)
+
 [150 CKAD Questions](https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552)
+
 [What is Kubernetes?](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
+
+[Networking and Kubernetes](https://www.oreilly.com/library/view/networking-and-kubernetes/9781492081647/)

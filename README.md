@@ -7,14 +7,14 @@ Collection of study notes and resources for preparing for [Certified Kubernetes 
 Organized accordingly to CKA Exam skill requirements.
 
 - [Fundamentals](0.fundamentos.md) - Basic overall knowledge on concepts used by Kubernetes.
-- [Storage - 10%](1.storage.md)
+- [1. Storage - 10%](1.storage.md)
 
     1. [Understand storage classes, Persistent Volumes](https://github.com/justjhon/destroying-cka/blob/main/1.storage.md#1-understand-storage-classes-persistent-volumes)
     2. [Understand volume mode, access modes and reclaim policies for volumes](https://github.com/justjhon/destroying-cka/blob/main/1.storage.md#2-understand-volume-mode-access-modes-and-reclaim-policies-for-volumes)
     3. [Understand persistent volume claims primitive](https://github.com/justjhon/destroying-cka/blob/main/1.storage.md#3-understand-persistent-volume-claims-primitive)
     4. [Know how to configure applications with persistent storage](https://github.com/justjhon/destroying-cka/blob/main/1.storage.md#4-know-how-to-configure-applications-with-persistent-storage)
 
-- [Troubleshooting - 30%](2.troubleshooting.md)
+- [2. Troubleshooting - 30%](2.troubleshooting.md)
 
     1. [Evaluate cluster and node logging](https://github.com/justjhon/destroying-cka/blob/main/2.troubleshooting.md#1-evaluate-cluster-and-node-logging)
     2. [Understand how to monitor applications](https://github.com/justjhon/destroying-cka/blob/main/2.troubleshooting.md#2-understand-how-to-monitor-applications)
@@ -23,7 +23,7 @@ Organized accordingly to CKA Exam skill requirements.
     5. [Troubleshoot cluster component failure](https://github.com/justjhon/destroying-cka/blob/main/2.troubleshooting.md#5-troubleshoot-cluster-component-failure)
     6. [Troubleshoot networking](https://github.com/justjhon/destroying-cka/blob/main/2.troubleshooting.md#6-troubleshoot-networking)
 
-- [Workloads & Scheduling - 15%](3.workloads_&_scheduling.md)
+- [3. Workloads & Scheduling - 15%](3.workloads_&_scheduling.md)
 
     1. [Understand deployments and how to perform rolling update and rollbacks](https://github.com/justjhon/destroying-cka/blob/main/3.workloads_%26_scheduling.md#1-understand-deployments-and-how-to-perform-rolling-update-and-rollbacks)
     2. [Use ConfigMaps and Secrets to configure applications](https://github.com/justjhon/destroying-cka/blob/main/3.workloads_%26_scheduling.md#2-use-configmaps-and-secrets-to-configure-applications)
@@ -32,7 +32,7 @@ Organized accordingly to CKA Exam skill requirements.
     5. [Understand how resource limits can affect Pod scheduling](https://github.com/justjhon/destroying-cka/blob/main/3.workloads_%26_scheduling.md#5-understand-how-resource-limits-can-affect-pod-scheduling)
     6. [Awareness of manifest management and common templating tools](https://github.com/justjhon/destroying-cka/blob/main/3.workloads_%26_scheduling.md#6-awareness-of-manifest-management-and-common-templating-tools)
 
-- [Cluster Architecture, Installation & Configuration - 25%](4.cluster_architecture_installation_&_configuration.md)
+- [4. Cluster Architecture, Installation & Configuration - 25%](4.cluster_architecture_installation_&_configuration.md)
 
     1. [Manage role based access control (RBAC)](https://github.com/justjhon/destroying-cka/blob/main/4.cluster_architecture_installation_&_configuration.md#1-manage-role-based-access-control-rbac)
     2. [Use Kubeadm to install a basic cluster](https://github.com/justjhon/destroying-cka/blob/main/4.cluster_architecture_installation_&_configuration.md#2-use-kubeadm-to-install-a-basic-cluster)
@@ -41,7 +41,7 @@ Organized accordingly to CKA Exam skill requirements.
     5. [Perform a version upgrade on a Kubernetes cluster using Kubeadm](https://github.com/justjhon/destroying-cka/blob/main/4.cluster_architecture_installation_&_configuration.md#5-perform-a-version-upgrade-on-a-kubernetes-cluster-using-kubeadm)
     6. [Implement etcd backup and restore](https://github.com/justjhon/destroying-cka/blob/main/4.cluster_architecture_installation_&_configuration.md#6-implement-etcd-backup-and-restore)
 
-- [Services & Networking - 20%](5.services_&_networking.md)
+- [5. Services & Networking - 20%](5.services_&_networking.md)
 
     1. [Understand host networking configuration on the cluster nodes](https://github.com/justjhon/destroying-cka/blob/main/4.cluster_architecture_installation_&_configuration.md#1-manage-role-based-access-control-rbac)
     2. [Understand connectivity between Pods](https://github.com/justjhon/destroying-cka/blob/main/5.services_%26_networking.md#2-understand-connectivity-between-pods)
